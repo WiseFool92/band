@@ -1,4 +1,4 @@
-# Band
+# Band - Pink Floyd
 
 #### Git, HTML and CSS Exercise for Epicodus, 03.18.2020
 
