@@ -1,5 +1,6 @@
 img {
     float: left;
+    padding: 6px;
 }
 .sidebar {
     width: 30%;
@@ -11,6 +12,7 @@ img {
 }
 img {
     float: right;
+    padding: 6px;
 }
 .column {
     width: 300px;
