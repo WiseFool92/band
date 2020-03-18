@@ -5,6 +5,9 @@ img {
     width: 30%;
     float: right;
     background-color: yellow;
+    margin: 12px;
+    border: 2px goldenrod;
+    padding: 4px;
 }
 img {
     float: right;
